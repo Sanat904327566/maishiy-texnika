@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.support:support-media-compat:28.0.0-rc02@aar">
+    <ANNOTATIONS>
+      <root url="jar://D:/TATU UF/programma/Android studio/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/391e59abcbd33df2c5185f60dab68a29/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/TATU UF/programma/Android studio/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/391e59abcbd33df2c5185f60dab68a29/jars/classes.jar!/" />
+      <root url="file://D:/TATU UF/programma/Android studio/.gradle/caches/transforms-1/files-1.1/support-media-compat-28.0.0-rc02.aar/391e59abcbd33df2c5185f60dab68a29/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
